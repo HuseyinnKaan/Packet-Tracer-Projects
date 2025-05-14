@@ -10,9 +10,6 @@ Bu projede, Cisco Packet Tracer kullanılarak oluşturulmuş bir **statik yönle
 - **2 Router**
 - **1 Server**
 
-### Yapılandırma:
-- **Standart ACL**: Sadece 192.168.1.10 IP adresine sahip cihazın sunucuya erişmesi sağlanmıştır. Diğer tüm cihazlar engellenmiştir.
-
 `.pkt` dosyasını indirip Packet Tracer ile açarak inceleyebilirsiniz.
 
 # CPT-Standard-ACL-Configuration
@@ -26,8 +23,5 @@ In this project, a **static routing topology** has been created using Cisco Pack
 - **1 Switch**
 - **2 Routers**
 - **1 Server**
-
-### Configuration:
-- **Standard ACL**: Only the device with IP address **192.168.1.10** is allowed to access the server. All other devices are denied access.
 
 You can download the `.pkt` file and open it in Cisco Packet Tracer to review the topology and configuration.
