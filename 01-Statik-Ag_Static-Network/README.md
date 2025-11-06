@@ -6,6 +6,10 @@ Bu projede küçük ölçekli bir statik ağ tasarımı yapılmıştır. Kullan�
 - 6 Switch
 - 6 PC
 
+Aşağıda Statik Ağ yapısının genel topolojisi gösterilmektedir:
+
+![Statik Ağ](2.29-Statik_Ag.png)
+
 `.pkt` dosyasını indirip Packet Tracer ile açarak inceleyebilirsiniz.
 
 # CPT-Static-Network
