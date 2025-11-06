@@ -28,6 +28,10 @@ Bu projede, **Cisco Packet Tracer** kullanılarak **Router-on-a-Stick** yapısı
 - **PC1** VLAN 10’a, **PC2** VLAN 20’ye atanmıştır.  
 - **Router’a bağlı port**, **Trunk portu** olarak yapılandırılmıştır.
 
+Aşağıda Router On a Stick yapısının genel topolojisi gösterilmektedir:
+
+![RIPv2 Topolojisi](RouterOnAStick.png)
+
 ## `.pkt` Dosyası:
 Bu projeye ait `.pkt` dosyasını indirip **Cisco Packet Tracer** ile açarak VLAN yapılandırmasını ve Router-on-a-Stick bağlantısını inceleyebilirsiniz.
 
