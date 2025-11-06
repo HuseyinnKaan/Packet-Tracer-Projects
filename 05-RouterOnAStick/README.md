@@ -30,7 +30,7 @@ Bu projede, **Cisco Packet Tracer** kullanılarak **Router-on-a-Stick** yapısı
 
 Aşağıda Router On a Stick yapısının genel topolojisi gösterilmektedir:
 
-![RIPv2 Topolojisi](RouterOnAStick.png)
+![Router On a Stick Topolojisi](4.55-RouterOnAStick.png)
 
 ## `.pkt` Dosyası:
 Bu projeye ait `.pkt` dosyasını indirip **Cisco Packet Tracer** ile açarak VLAN yapılandırmasını ve Router-on-a-Stick bağlantısını inceleyebilirsiniz.
