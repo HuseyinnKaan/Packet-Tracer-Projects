@@ -16,6 +16,10 @@ Bu projede, **Cisco Packet Tracer** kullanılarak **RIPv2 (Routing Information P
 - R2, bu default rotayı diğer router’larla paylaşmak için `default-information originate` komutu kullanılarak yapılandırılmıştır.  
 - Bu sayede **R1** ve **R3**, R2 üzerinden **default route** bilgisine dinamik olarak erişmektedir.
 
+Aşağıda RIPv2 yönlendirme yapısının genel topolojisi gösterilmektedir:
+
+![RIPv2 Topolojisi](4.57-RIPv2.png)
+
 ## `.pkt` Dosyası:
 Bu projeye ait `.pkt` dosyasını indirip **Cisco Packet Tracer** ile açarak RIPv2 yapılandırmasını ve dinamik yönlendirme sürecini inceleyebilirsiniz.
 
