@@ -15,6 +15,10 @@ Bu projede, Cisco Packet Tracer kullanılarak oluşturulmuş bir **statik yönle
   - Sadece **192.168.1.10** IP adresine sahip cihaz FTP işlemi yapabilir.
   - Diğer tüm cihazlar yalnızca **ping** atabilir.
 
+Aşağıda Gelişmiş ACL yapısının genel topolojisi gösterilmektedir:
+
+![Gelişmiş ACL](2.33-ExtendedACL.png)
+
 ## `.pkt` Dosyası:
 Bu projeye ait `.pkt` dosyasını indirip **Cisco Packet Tracer** ile açarak ağ topolojisini ve ACL yapılandırmasını inceleyebilirsiniz.
 
