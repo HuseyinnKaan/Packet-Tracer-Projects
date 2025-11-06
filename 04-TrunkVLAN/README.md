@@ -19,6 +19,10 @@ Bu projede, **Cisco Packet Tracer** kullanılarak **VLAN Trunk** yapısının uy
 - Her iki switch üzerinde VLAN 10 ve VLAN 20 tanımlanmıştır.  
 - Trunk portları, her iki VLAN’dan gelen trafiği taşıyacak şekilde ayarlanmıştır.
 
+Aşağıda Trunk VLAN yapısının genel topolojisi gösterilmektedir:
+
+![Trunk VLAN](4.50-TrunkVLAN.png)
+
 ## `.pkt` Dosyası:
 Bu projeye ait `.pkt` dosyasını indirip **Cisco Packet Tracer** ile açarak VLAN yapılandırmasını ve Trunk bağlantısını inceleyebilirsiniz.
 
