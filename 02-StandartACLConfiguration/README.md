@@ -10,6 +10,10 @@ Bu projede, Cisco Packet Tracer kullanılarak oluşturulmuş bir **statik yönle
 - **2 Router**
 - **1 Server**
 
+Aşağıda Standart ACL yapısının genel topolojisi gösterilmektedir:
+
+![Standart ACL](2.32-StandartACL.png)
+
 `.pkt` dosyasını indirip Packet Tracer ile açarak inceleyebilirsiniz.
 
 # CPT-Standard-ACL-Configuration
